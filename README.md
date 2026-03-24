@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 # 课堂专注度分析系统
 
 ## 项目简介
@@ -41,4 +41,4 @@
 =======
 # classroom-attention
 课堂专注度分析系统 - 基于CNN的多模态课堂行为分析
->>>>>>> 2a6dfe441a80795efde11d77a79d36b0b6b947dd
+ 2a6dfe441a80795efde11d77a79d36b0b6b947dd
